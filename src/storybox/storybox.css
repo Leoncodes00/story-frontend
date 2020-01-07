@@ -1,0 +1,18 @@
+.text-box {
+  height: 400px;
+  width: 35%;
+  position: absolute;
+  left: 57%;
+  bottom: 17%;
+}
+.story-name {
+  position: absolute;
+  left: 69%;
+  bottom: 75%;
+}
+
+.submit-button {
+  position: absolute;
+  left: 85.9%;
+  bottom: 10%;
+}
